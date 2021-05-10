@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emil Mathew
-- 👀 I’m interested in java/micor-services/spring boot/AWS
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in java/micro-services/spring boot/AWS/Shell scripting
+- 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me emil3886@gmail.com
 
